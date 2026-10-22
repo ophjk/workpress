@@ -1,0 +1,96 @@
+.secondBlock {
+    position: relative;
+    width: 1922px;
+    height: 607px;
+    background-color: #EFEFEF;
+}
+
+.chtoJdet {
+    position: absolute;
+    left: 671px;
+    top: 88px;
+    height: 23px;
+    width: 582px;
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #252525;
+}
+
+.poloska3 {
+    position: absolute;
+    left: 860px;
+    top: 131px;
+    width: 217px;
+    height: 4px;
+    background-color: #f9bf3b;
+}
+
+.gdeVebinary {
+    position: absolute;
+    left: 651px;
+    top: 155px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 87%;
+    text-align: center;
+    color: #4a4a4a
+}
+
+.komputer1 {
+    position: absolute;
+    left: 400px;
+    top: 220px;
+}
+
+.textComp1 {
+    position: absolute;
+    left: 379px;
+    top: 447px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 140%;
+    text-align: center;
+    color: #4a4a4a;
+}
+
+.komputer2 {
+    position: absolute;
+    left: 790px;
+    top: 220px;
+}
+
+.textComp2 {
+    position: absolute;
+    left: 776px;
+    top: 447px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 140%;
+    text-align: center;
+    color: #4a4a4a;
+}
+
+.komputer3 {
+    position: absolute;
+    left: 1180px;
+    top: 220px;
+}
+
+.textComp3 {
+    position: absolute;
+    left: 1166px;
+    top: 447px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 140%;
+    text-align: center;
+    color: #4a4a4a;
+}
