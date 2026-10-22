@@ -1,0 +1,44 @@
+.thirdBlock {
+    width: 1922px;
+    height: 547px;
+}
+
+.women {
+    position: absolute;
+    top: 1452px;
+    left: 150px;
+}
+
+.opimisatsia {
+    box-sizing: border-box;
+    position: absolute;
+    left: 781px;
+    top: 1513px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 100%;
+    text-transform: uppercase;
+    color: #299cbd;
+}
+
+.optimText {
+    position: absolute;
+    left: 779px;
+    top: 1568px;
+    width: 750px;
+    height: 312px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 159%;
+    color: #4a4a4a
+}
+
+.optimText p {
+    margin: 8px;
+}
+
+.optimText span {
+    font-weight: 700;
+}
