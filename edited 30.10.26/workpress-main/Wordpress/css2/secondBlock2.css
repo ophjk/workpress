@@ -1,0 +1,76 @@
+.secondBlock {
+    display: flex;
+    width: 1922px;
+    height: 607px;
+    background-color: #EFEFEF;
+    justify-content: center;
+}
+
+.chtoJdet {
+    margin-top: 75px;
+    height: 23px;
+    width: 582px;
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #252525;
+}
+
+.poloska3 {
+    margin-top: 20px;
+    width: 217px;
+    height: 4px;
+    background-color: #f9bf3b;
+}
+
+.gdeVebinary {
+    margin-top: 19.5px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 87%;
+    text-align: center;
+    color: #4a4a4a
+}
+
+.komputer1 {
+    justify-content: center;
+}
+
+.textComp1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 140%;
+    text-align: center;
+    color: #4a4a4a;
+}
+
+.komputer2 {
+    justify-content: center;
+}
+
+.textComp2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 140%;
+    text-align: center;
+    color: #4a4a4a;
+}
+
+.komputer3 {
+    justify-content: center;
+}
+
+.textComp3 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 140%;
+    text-align: center;
+    color: #4a4a4a;
+}

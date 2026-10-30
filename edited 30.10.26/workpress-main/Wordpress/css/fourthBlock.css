@@ -1,0 +1,163 @@
+.fourthBlock {
+    position: relative;
+    width: 1920px;
+    height: 447px;
+    background-image: url('../img/bg/second_bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.smogeteText {
+    position: absolute;
+    right: 645px;
+    top: 86px;
+    width: 624px;
+    height: 24px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #efefef
+}
+
+.poloska4{
+    position: absolute;
+    right: 851px;
+    top: 130px;
+    width: 217px;
+    height: 4px;
+    border: none;
+    background-color: #f9bf3b;
+}
+
+.krug1 {
+    position: absolute;
+    left: 438px;
+    top: 175px;
+    width: 115px;
+    height: 115px;
+    border-radius: 50%;
+    background-color: #b4e2ff;
+}
+
+.krug2 {
+    position: absolute;
+    left: 669px;
+    top: 175px;
+    width: 115px;
+    height: 115px;
+    border-radius: 50%;
+    background-color: #b4e2ff;
+}
+
+.krug3 {
+    position: absolute;
+    left: 902px;
+    top: 175px;
+    width: 115px;
+    height: 115px;
+    border-radius: 50%;
+    background-color: #b4e2ff;
+}
+
+.krug4 {
+    position: absolute;
+    left: 1138px;
+    top: 175px;
+    width: 115px;
+    height: 115px;
+    border-radius: 50%;
+    background-color: #b4e2ff;
+}
+
+.krug5 {
+    position: absolute;
+    left: 1369px;
+    top: 175px;
+    width: 115px;
+    height: 115px;
+    border-radius: 50%;
+    background-color: #b4e2ff;
+}
+
+.finish1 {
+    position: absolute;
+    left: 462px;
+    top: 212px;
+}
+
+.finish2 {
+    position: absolute;
+    left: 702px;
+    top: 206px;
+}
+
+.finish3 {
+    position: absolute;
+    left: 931px;
+    top: 203px;
+}
+
+.finish4 {
+    position: absolute;
+    left: 1163px;
+    top: 199px;
+}
+
+.finish5 {
+    position: absolute;
+    left: 1402px;
+    top: 199px;
+}
+
+.fintext {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 118%;
+    text-align: center;
+    color: #efefef;
+}
+
+#fint1 {
+    position: absolute;
+    left: 392px;
+    top: 317px;
+    width: 208px;
+    height: 40px;
+}
+
+#fint2 {
+    position: absolute;
+    left: 612px;
+    top: 317px;
+    width: 234px;
+    height: 40px;
+}
+
+#fint3 {
+    position: absolute;
+    left: 847px;
+    top: 317px;
+    width: 226px;
+    height: 62px;
+}
+
+#fint4 {
+    position: absolute;
+    left: 1083px;
+    top: 317px;
+    width: 224px;
+    height: 40px;
+}
+
+#fint5 {
+    position: absolute;
+    left: 1313px;
+    top: 317px;
+    width: 232px;
+    height: 40px;
+}

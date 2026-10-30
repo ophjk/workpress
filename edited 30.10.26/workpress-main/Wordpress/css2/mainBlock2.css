@@ -1,0 +1,140 @@
+.mainBlock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url('../img/bg/main_bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.logo {
+    width: 83px;
+    height: 71px;
+    margin-top: 38px;
+    justify-content: center;
+}
+
+.first-nadpis {
+    margin-top: 9.5px;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 160%;
+    text-align: justify;
+    text-transform: uppercase;
+    color: #fff
+}
+
+.sozdatSayt {
+    margin-top: 53px;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 41px;
+    line-height: 100%;
+    text-align: justify;
+    text-transform: uppercase;
+    color: #f9bf3b;
+}
+
+.atoProstoBlock {
+    display: flex;
+    width: 1144px;
+    margin-top: 20.5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.poloska1 {
+    margin-bottom: 5px;
+    width: 292px;
+    height: 2px;
+    background-color: white;
+}
+
+.atoProsto {
+    width: 547px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 80px;
+    line-height: 80%;
+    text-align: justify;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.poloska2 {
+    margin-bottom: 5px;
+    width: 292px;
+    height: 2px;
+    background-color: white;
+}
+
+.slojneePravilno {
+    margin-top: 20.5px;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 41px;
+    line-height: 100%;
+    text-align: justify;
+    text-transform: uppercase;
+    color: #f9bf3b;
+}
+
+.besplatnyIntense {
+    margin-top: 22.5px;
+    width: 1144px;
+    height: 77px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 133%;
+    text-align: justify;
+    color: #fff
+}
+
+.besplatnyIntense span {
+    font-weight: 700;
+    color: #f9bf3b;
+}
+
+.knopka1 {
+    width: 313px;
+    height: 72px;
+    margin-top: 72px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.4);
+    background: linear-gradient(0deg, #2798b9 0%, #3ab6da 100%);
+}
+
+.knopka1 .zapisatsa {
+    margin-top: 22.5px;
+    margin-left: 14px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 114%;
+    text-align: justify;
+    text-transform: uppercase;
+    color: #fff;
+    text-shadow: -1px -1px 0 0 rgba(0, 0, 0, 0.22);
+}
+
+.uznateBolshe {
+    margin-top: 70px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+    line-height: 160%;
+    text-align: justify;
+    text-transform: uppercase;
+    color: #fff
+}
+
+.arrowDown {
+    margin-top: 4.49px;
+    margin-bottom: 61.02px;
+}

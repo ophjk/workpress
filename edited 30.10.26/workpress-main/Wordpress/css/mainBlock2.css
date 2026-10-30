@@ -1,0 +1,120 @@
+.mainBlock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url('../img/bg/main_bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.logo {
+    justify-content: center;
+}
+
+.first-nadpis {
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 160%;
+    text-align: justify;
+    text-transform: uppercase;
+    color: #fff
+}
+
+.sozdatSayt {
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 41px;
+    line-height: 100%;
+    text-align: justify;
+    text-transform: uppercase;
+    color: #f9bf3b;
+}
+
+.atoProstoBlock {
+    justify-content: center;
+}
+
+.poloska1 {
+    background-color: white;
+}
+
+.poloska2 {
+    background-color: white;
+}
+
+.atoProsto {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 80px;
+    line-height: 80%;
+    text-align: justify;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.slojneePravilno {
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 41px;
+    line-height: 100%;
+    text-align: justify;
+    text-transform: uppercase;
+    color: #f9bf3b;
+}
+
+.besplatnyIntense {
+    position: absolute;
+    left: 389px;
+    top: 400px;
+    width: 1144px;
+    height: 77px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 133%;
+    text-align: justify;
+    color: #fff
+}
+
+.besplatnyIntense span {
+    font-weight: 700;
+    color: #f9bf3b;
+}
+
+.knopka1 {
+    justify-content: center;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.4);
+    background: linear-gradient(0deg, #2798b9 0%, #3ab6da 100%);
+}
+
+.zapisatsa {
+    justify-content: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 114%;
+    text-align: justify;
+    text-transform: uppercase;
+    color: #fff;
+    text-shadow: -1px -1px 0 0 rgba(0, 0, 0, 0.22);
+}
+
+.uznateBolshe {
+    justify-content: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+    line-height: 160%;
+    text-align: justify;
+    text-transform: uppercase;
+    color: #fff
+}
+
+.arrowDown {
+    justify-content: center;
+}
